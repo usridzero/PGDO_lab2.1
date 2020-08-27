@@ -1,0 +1,7 @@
+This is my writeup for Lesson 02.
+
+I was able to install git, create repos in both github and bitbucket.
+
+I was able to create the files and upload to github.  After that I added bitbucket as a sync and was able to upload files to bitbucket.
+
+I also modify this file in the repo and uploaded to both.
